@@ -11,7 +11,7 @@ To create a new project using the boilerplate:
 
 ## Contributions 
 Contributions, issues and feature requests are welcome.
-Feel free to check [issues]({Link} "issues") page if you want to contribute.
+Feel free to check [issues](https://github.com/UmairAnjum86/React-Native-Navigation-s/issues "issues") page if you want to contribute.
 
 ## About Me
 My name is Umair Anjum, I am Software Engineer at TECHZO Solution Pakistan. I have expertise in Native Android | React - Native| Android | Java | Kotlin | Javascript | MVVM | MVP | RxJava | Dagger | Material Design | Live Data | Data Binding.
