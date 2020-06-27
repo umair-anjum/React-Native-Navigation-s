@@ -30,7 +30,7 @@ const SplashScreen = ({navigation}) =>{
             <Animatable.View 
             animation="fadeInUpBig"
             style={styles.footer}>
-                <Text style={styles.title}>Welcome to React Native App</Text>
+                <Text style={styles.title}>Welcome to Native Android App</Text>
                 <Text style={styles.text}>Sign In with an account</Text>
                 <View style={styles.button}>
                 <TouchableOpacity onPress={()=>navigation.navigate('SignInScreen')}>
